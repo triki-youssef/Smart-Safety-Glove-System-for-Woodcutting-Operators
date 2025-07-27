@@ -75,7 +75,7 @@ Sends a message to the machine-side
 
 <h3>🎥 Prototype Media (images & videos) </h3>
 
-
+https://github.com/user-attachments/assets/413430e5-49a5-4df2-8dad-95fb8697384a
 
 <!--
  ```diff
